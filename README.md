@@ -1,11 +1,17 @@
-# presentations
+# Michael Gutmann's presentations
 
-[Gutmann-2016-03-09](Gutmann-2016-03-09.pdf)
-[Gutmann-2016-04-21](Gutmann-2016-04-21.pdf)
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
+This is a collection of presentations given by Michael U. Gutmann. All content are licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-On GitHub.com
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-The GitHub wiki site strips out the download attribute, so conventional approaches as mentioned before aren't going to work properly. However, I found the following will work:
+You are free to re-use the material but will need to include an acknowledgement. The suggested citation is
 
-<a href="https://raw.githubusercontent.com/michaelgutmann/presentations/main/Gutmann-2016-03-09.pdf">Download FILE</a>
+```
+[Michael U. Gutmann](https://michaelgutmann.github.io/)
+Presentation title
+Year
+```
