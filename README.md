@@ -14,3 +14,4 @@ The suggested citation is
 Presentation title  
 Year
 
+A more human-readable list with presentations is available [here](http://michaelgutmann.github.io/presentations)
